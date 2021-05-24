@@ -1,2 +1,2 @@
 # Tableau-visualization
-This is a repository for data visulization for various datasets using TABLEAU SOFTWARE
+More projects are on https://public.tableau.com/profile/ackson8881#!/ using TABLEAU SOFTWARE

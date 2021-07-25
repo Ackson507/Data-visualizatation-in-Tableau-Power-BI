@@ -1,2 +1,2 @@
-# BI Software (Tableau)
-More projects are on https://public.tableau.com/profile/ackson8881#!/ using TABLEAU SOFTWARE
+# Data visualizatation & Dashboad [Tableau and Power BI)
+Report, dashboard and charts using Power BI and More projects are on https://public.tableau.com/profile/ackson8881#!/ using TABLEAU SOFTWARE
